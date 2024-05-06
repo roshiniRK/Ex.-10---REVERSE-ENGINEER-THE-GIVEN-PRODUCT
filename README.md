@@ -1,4 +1,4 @@
-# Ex. 4 - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.  4  - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -21,7 +21,7 @@
 ### Step 8.:- select the Scale option for design scale according to build tack plate area and then
 ### after click the start option and select printing option standard as shown in below figure.
 ### Step 9.:- After completing the all setting then click the Slice option and export the file in gcode Format.
-### Step 10.:- After generate the gcode format then follow the these instruction.
+### Step 10.:- After generate the gcode format then follow the these instruction 
   ###   ●	Switch on the 3d printer.
   ###   ●	Place your Pen drive in USB.
   ###   ●	Clean your surface bed plate.
@@ -29,11 +29,18 @@
   ###   ●	Wait until the nozzle & bed plate comes into the required temperature.
   ###   ●	Close the doors of the 3d printer.
   ###   ●	Open the file from the USB storage and select the Print option.
+
 ## Input:
-![em1](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/4a81a892-a97d-43e1-95d9-313d7cbec944)
+
+![image](https://github.com/roshiniRK/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118956165/693bf590-e006-4645-a643-4d277feafba7)
+
 ### Output:
-![em2](https://github.com/deepikasrinivasans/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393935/5cb6d08d-3a1e-4a32-a17f-042b1f220b09)
-### Name: ROSHINI R K
+
+![image](https://github.com/roshiniRK/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118956165/35829ff3-7b48-44ac-bcbd-f77e3aa6e64a)
+
+
+### Name: ROSHINI R K 
 ### Register Number: 212222230123
+
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
